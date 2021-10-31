@@ -1,0 +1,8 @@
+Model/ContaCorrente.class
+Model/Cliente.class
+Model/Conta.class
+Model/Operacoes.class
+Model/ContaPoupanca.class
+Controller/ContaCorrenteController.class
+Controller/ContaPoupancaController.class
+View/Main.class

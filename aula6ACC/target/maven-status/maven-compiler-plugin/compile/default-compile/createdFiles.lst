@@ -1,0 +1,10 @@
+Model/Animal.class
+Model/Mamifero.class
+Model/Reptil.class
+Controller/AnimalController.class
+Model/Lagarto.class
+Model/Aguia.class
+Model/Cachorro.class
+Model/Ave.class
+Model/Alimentacao.class
+View/Main.class
